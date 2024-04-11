@@ -19,3 +19,12 @@ STEP 4. If it turns out the following error,
 such error can be solved by installing the corresponding package. Below is the example command:
     
      pip install XXXXX
+
+## Data Scrapying
+Data scrapying and transfering is written by csharp. Scrapying methods are in
+
+    ScrapyStacast.cs
+
+API for data communication is in
+
+    StacastController.cs
